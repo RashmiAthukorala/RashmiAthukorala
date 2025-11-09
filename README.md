@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashmi Athukorala </br></h1>
 <h2>
 🎓 Undergraduate at Uva Wellassa University | QA Enthusiast | Software Tester </h2>
-<h3 align="center">💡 Passionate about ensuring software quality through automation and continuous testing. </h3> </br>🚀 I’m currently working on enhancing my skills in Quality Assurance, Test Automation, and Web Application Development.</h3>
+<h3 align="center">💡 Passionate about ensuring software quality through manual, automation, and continuous testing. </h3> </br>🚀 I’m currently working on enhancing my skills in Quality Assurance, Test Automation, and Web Application Development.</h3>
                                                                                                                
 
 - 🔭 I’m currently working on **Building QA automation projects using Selenium WebDriver, JUnit, and Postman Learning how to integrate automated testing into CI/CD pipelines Tracking bugs and tasks using JIRA**
