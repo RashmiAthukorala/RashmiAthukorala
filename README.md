@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **Building QA automation projects using Selenium WebDriver, JUnit, and Postman Learning how to integrate automated testing into CI/CD pipelines Tracking bugs and tasks using JIRA**
 
 - 📫 How to reach me **rashmiathukorala11@gmail.com**
+- ✍️ Read My Blogs on Medium **https://medium.com/@rashmiathukorala11**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
