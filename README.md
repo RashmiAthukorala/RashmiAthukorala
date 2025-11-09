@@ -17,7 +17,7 @@
 const rashmi = {
     location: "Sri Lanka 🇱🇰",
     education: "Uva Wellassa University",
-    focus: ["Quality Assurance", "Test Automation", "Software Testing"],
+    focus: ["Quality Assurance", "Test Automation", "Software Testing, QA with Artificial Intelligence"],
     currentlyLearning: ["Selenium WebDriver", "CI/CD Integration", "API Testing"],
     funFact: "I believe every bug is an opportunity to make software better! 🐛✨"
 };
