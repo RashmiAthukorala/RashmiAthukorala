@@ -23,17 +23,13 @@
 
 ---
 
-
-
----
-
 ## 🚀 About Me
 
 ```typescript
 const rashmi = {
     location: "Sri Lanka 🇱🇰",
     education: "Uva Wellassa University",
-    focus: ["Quality Assurance", "Test Automation", "Software Testing, QA with Artificial Intelligence"],
+    focus: ["Quality Assurance", "Test Automation", "Software Testing", "QA with AI"],
     currentlyLearning: ["Selenium WebDriver", "CI/CD Integration", "API Testing"],
     funFact: "I believe every bug is an opportunity to make software better! 🐛✨"
 };
@@ -117,10 +113,16 @@ const rashmi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RashmiAthukorala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiAthukorala&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmiAthukorala&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiAthukorala&layout=compact&langs_count=8&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RashmiAthukorala&theme=radical)
+
 </div>
 
+---
 
 ## 💭 Quote I Live By
 
